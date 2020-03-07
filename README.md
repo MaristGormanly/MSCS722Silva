@@ -11,7 +11,9 @@ stars! It's a side scroller game, with infinate scroll so the game is score base
 
 I created all the images myself using Adobe Illustrator and even found a copyright free sound that I've used in the past when creating other
 games. Unfortunately, the computers in HC don't have speakers so I was unable to record the sound in my video. My game design background 
-really came in handy with this project and I really enjoyed creating this game. Please find the link to the video on the bottom of this read me.
+really came in handy with this project and I really enjoyed creating this game. I struggled creating a top 10 highscore but I did manage to have it save the score when you "x" out of the simulator and reboot the iphone.
+
+Please find the link to the video on the bottom of this read me.
 
 (:
 
