@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="SOUNDBOARD"
+        android:textColor="@android:color/background_light" />
+
+
+    <Button
+        android:id="@+id/btn_sound1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="sound 1" />
+
+<!--    <Button-->
+<!--        android:id="@+id/btn_sound1h"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="right"-->
+<!--        android:onClick="playSound"-->
+<!--        android:text="High Pitch" />-->
+
+    <Button
+        android:id="@+id/btn_sound2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="sound 2" />
+
+    <Button
+        android:id="@+id/btn_sound3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="playSound"
+        android:text="sound 3" />
+
+    <!--    <Button-->
+    <!--        android:id="@+id/btn_sound4"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:onClick="playSound"-->
+    <!--        android:text="song 1" />-->
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="RECORDER"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn_startRec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Recording" />
+
+    <Button
+        android:id="@+id/btn_stopRec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Stop Recording " />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="PLAYBACK"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btn_startAud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play Audio" />
+
+    <Button
+        android:id="@+id/btn_stopAud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop Audio" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="PITCH"
+        android:textColor="#FFFFFF" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="High Pitch     " />
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Low Pitch     " />
+
+
+</LinearLayout>
