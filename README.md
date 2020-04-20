@@ -1,5 +1,6 @@
 # MSCS722Silva
 Enterprise Mobile Development 
+
 Project 1: Native Game
 
 The game I have created is called Space Dash! 
@@ -21,3 +22,15 @@ Created in the HC 0004 - Xcode 8.0 compatible
 *** tested on iphone 6 simulator ***
 
 https://youtu.be/DA4BY5nyeyU
+
+Project 2: Beat Motion
+
+Due to the Covid-19 I had to change my OS system to android. I struggle a bit with the transition and unfortunately was not able to complete all the functions. My main issue was being unable to fully test the media recording fucntion, since it currently does not work on the android studio emulator. I have an iphone so I was unable to locally test the app. 
+
+This is the android studio develop website stating the mediarecorder function doesn't currently work on the emulator. I unfortunately found that out a little late in the game, as it was driving me insane because I couldn't figure out why it wasn't working. The app crashes due to mediarecorder not being supported on the emulator once you click stop recording.
+
+https://developer.android.com/reference/android/media/MediaRecorder
+
+Please see below the youtube video posted testing parts of the app. 
+
+https://youtu.be/s6eWolxDrWo
