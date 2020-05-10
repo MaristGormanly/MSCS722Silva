@@ -34,3 +34,9 @@ https://developer.android.com/reference/android/media/MediaRecorder
 Please see below the youtube video posted testing parts of the app. 
 
 https://youtu.be/s6eWolxDrWo
+
+Project 3: Augmented Reality and Design
+
+For this project, I decided it would be fun to make a front facing camera AR filter. Since this is my laste semester at Marist because I am graduating this year, I thought what better way to tie my good bye than to encorporate it in this project! I created a camera filter, named FrankieFilter because of Marist's mascot, Frankie the Fox. The front facing camera will be activiated and map the users face in order to place the fox ears, a fox snout, and freckles along with some shading on the users face! 
+
+Unfortunately since I don't have an android phone, I was unable to test it myself. But! I emailed my code to my friend and asked him if he could test it for me since I remembered that he just recently got an android phone. After very long phone call giving him instructions over the phone, he was able to run my app on his phone and he told me it worked! Unfortunately when I askedd him to record a video of him with the filter on his face for my project, he refused, understandably so. He was embarassed and didn't want to -- which is fine and I totally get it! I hope thats okay Professor that I don't have a video! I can't test it on the emulator because it doesn't give me camera access, but since my friend tested it and told me it works, I'm going off that! Also I'm sorry I'm unable to provide a video, resouces are a bit limited over here due to covid!
